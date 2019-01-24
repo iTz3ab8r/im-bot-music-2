@@ -325,7 +325,7 @@ if (message.content.startsWith(adminprefix + 'st')) {
 });
 client.on('message', msg => {
   if (msg.content === '^^2suppport') {
-    msg.reply('السيرفر للمساعده,https://discord.gg/NwX2bJF');
+    msg.reply('السيرفر للمساعده,https://discord.gg/wD2mPuV');
   }
 });
 client.on('message' , message => {
